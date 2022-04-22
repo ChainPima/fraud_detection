@@ -1,2 +1,2 @@
 # fraud_detection
-A mini project about fraud detection with using Neural Network and SMOTE 
+A mini project on fraud detection using Neural Network and SMOTE 
